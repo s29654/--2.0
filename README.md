@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/alex3imaslov/caf4ce84-7476-4720-bafa-797fb3f0253d/20e1a712-6770-40bd-9a7f-79e40a51b84d/_apis/work/boardbadge/f5e8c2a6-1dd9-4ef5-827a-03c0ec314fe1)](https://dev.azure.com/alex3imaslov/caf4ce84-7476-4720-bafa-797fb3f0253d/_boards/board/t/20e1a712-6770-40bd-9a7f-79e40a51b84d/Microsoft.RequirementCategory)
 # --2.0
